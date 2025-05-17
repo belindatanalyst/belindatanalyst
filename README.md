@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola, soy Belinda Velázquez!</h1>
 
-<p align="center">📊 Aspirante a Analista de Datos | En formación en TripleTen LatAm | Apasionada por convertir datos en decisiones</p>
+<p align="center">📊 Aspirante a Analista de Datos | En formación en TripleTen LatAm</p>
 
 ---
 
