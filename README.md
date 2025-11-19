@@ -1,8 +1,6 @@
 <a href="https://www.linkedin.com/in/belinda-velazquez/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-pink?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=belindatanalyst&label=Visitas%20al%20perfil&color=ff69b4&style=for-the-badge)
 
 
 <h1 align="center">¡Hola, soy Belinda!</h1>
