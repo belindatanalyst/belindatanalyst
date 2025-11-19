@@ -6,11 +6,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-
-<h1 align="center">¡Hola, soy Belinda!</h1>
-
-<p align="center">📊 Aspirante a Analista de Datos</p>
-
 ---
 
 ### 🚀 Sobre mí
