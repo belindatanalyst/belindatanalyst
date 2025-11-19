@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/belinda-velazquez/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil-pink?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
 </a>
 
 
@@ -25,6 +25,8 @@ Actualmente estoy desarrollando proyectos personales y prácticos como parte de 
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 </p>
 
 ---
