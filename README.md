@@ -8,12 +8,11 @@
 
 ---
 
-### 🚀 Sobre mí
+### ¡Hola! Soy Belinda Velázquez, Analista de Datos 📊
 
-Soy aspirante de análisis de datos con enfoque en resolver problemas reales mediante datos.  
-Me especializo en limpieza, analisis y visualización de datos.
+Analista con formación profesional en Mercadotecnia y Administración y diplomado en TripleTen. Mi enfoque principal es la transformación de datos complejos en estrategias de negocio accionables y resultados medibles.
 
-Actualmente estoy desarrollando proyectos personales y prácticos como parte de mi formación, y estoy en búsqueda de una oportunidad como **Analista de Datos Jr.**.
+Me especializo en el flujo completo de datos: desde la extracción y limpieza (ETL) hasta el análisis exploratorio y la creación de visualizaciones que faciliten la toma de decisiones estratégicas.
 
 ---
 
