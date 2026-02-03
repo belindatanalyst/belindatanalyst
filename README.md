@@ -10,7 +10,7 @@
 
 ### ¡Hola! Soy Belinda, Analista de Datos 📊
 
-Analista con formación profesional en Mercadotecnia y Administración y diplomado en TripleTen. Mi enfoque principal es la transformación de datos complejos en estrategias de negocio accionables y resultados medibles.
+Analista con formación profesional en Mercadotecnia y Diplomado en Analisis de Datos. Mi enfoque principal es la transformación de datos complejos en estrategias de negocio accionables y resultados medibles.
 
 Me especializo en el flujo completo de datos: desde la extracción y limpieza (ETL) hasta el análisis exploratorio y la creación de visualizaciones que faciliten la toma de decisiones estratégicas.
 
