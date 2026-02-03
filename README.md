@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_3478_portada.jpg" alt="Header" width="100%" />
+  <img src="Bienvenido.png" alt="Header" width="100%" />
 </p>
 
 <a href="https://www.linkedin.com/in/belinda-velazquez/" target="_blank">
