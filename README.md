@@ -8,7 +8,7 @@
 
 ---
 
-### ¡Hola! Soy Belinda Velázquez, Analista de Datos 📊
+### ¡Hola! Soy Belinda Velázquez Cantú, Analista de Datos 📊
 
 Analista con formación profesional en Mercadotecnia y Administración y diplomado en TripleTen. Mi enfoque principal es la transformación de datos complejos en estrategias de negocio accionables y resultados medibles.
 
