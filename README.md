@@ -6,17 +6,34 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
----
 
-### ¡Hola! Soy Belinda, Analista de Datos 📊
+  
+# ¡Hola! 👋 Soy Belinda Velazquez Cantu 
 
-Analista con formación profesional en Mercadotecnia y Diplomado en Analisis de Datos. Mi enfoque principal es la transformación de datos complejos en estrategias de negocio accionables y resultados medibles.
+🌟Soy mercadóloga de profesión y analista de datos por elección. Me dedico a darle sentido a los datos para ayudar a tomar mejores decisiones.
+Me encanta el proceso completo: desde limpiando datos, hasta encontrar esos insights que nadie más vio y presentarlos de forma que todos entiendan qué está pasando.
 
-Me especializo en el flujo completo de datos: desde la extracción y limpieza (ETL) hasta el análisis exploratorio y la creación de visualizaciones que faciliten la toma de decisiones estratégicas.
+Cuando no estoy analizando datos, estoy buscando nuevas herramientas o formas más rápidas de hacer las cosas. Te invito a ver mis proyectos y a que estemos en contacto.
 
----
+## 📝 Sobre Mi
+</td>
+    <td valign="top" width="40%" align="center">
+      
+<img src="https://via.placeholder.com/350x200/222222/FFFFFF?text=Analista+de+Datos" width="100%" alt="Analista de Datos"/>
 
-### 🛠️ Lenguajes y herramientas
+<br><br>
+
+<a href="URL_DE_TU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Belinda"/>
+</a>
+
+    </td>
+  </tr>
+</table>
+
+
+## 🛠️ Lenguajes y herramientas
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
