@@ -2,11 +2,6 @@
   <img src="Bienvenido.png" alt="Header" width="100%" />
 </p>
 
-<a href="https://www.linkedin.com/in/belinda-velazquez/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-
   
 # ¡Hola! 👋 Soy Belinda Velazquez Cantu 
 
@@ -16,17 +11,15 @@ Me encanta el proceso completo: desde limpiando datos, hasta encontrar esos insi
 Cuando no estoy analizando datos, estoy buscando nuevas herramientas o formas más rápidas de hacer las cosas. Te invito a ver mis proyectos y a que estemos en contacto.
 
 ## 📝 Sobre Mi
+
+### 🌟Contactame:
 </td>
-    <td valign="top" width="40%" align="center">
-      
+    <td valign="top" width="40%" align="center"> 
 <img src="https://via.placeholder.com/350x200/222222/FFFFFF?text=Analista+de+Datos" width="100%" alt="Analista de Datos"/>
-
 <br><br>
-
-<a href="URL_DE_TU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Belinda"/>
+<a href="https://www.linkedin.com/in/belinda-velazquez/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
     </td>
   </tr>
 </table>
