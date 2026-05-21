@@ -5,29 +5,25 @@
   
 # ¡Hola! 👋 Soy Belinda Velazquez Cantu 
 
-🌟Soy mercadóloga de profesión y analista de datos por elección. Me dedico a darle sentido a los datos para ayudar a tomar mejores decisiones.
+🌟Soy mercadóloga de estudio y analista de datos por elección. Me dedico a darle sentido a los datos para ayudar a tomar mejores decisiones.
 Me encanta el proceso completo: desde limpiando datos, hasta encontrar esos insights que nadie más vio y presentarlos de forma que todos entiendan qué está pasando.
 
 Cuando no estoy analizando datos, estoy buscando nuevas herramientas o formas más rápidas de hacer las cosas. Te invito a ver mis proyectos y a que estemos en contacto.
 
-<table>
-  <tr>
-    <td valign="top" width="50%"> 
-      
-### 📝 Sobre mí
 
-* **¿Qué hago?** Analista de datos con formación en mercadotecnia. Mi trabajo es convertir datos complejos en decisiones claras y estrategias que realmente funcionen.
-* **¿En qué me especializo?** Me gusta dominar todo el proceso: desde la extracción y limpieza (ETL) hasta el análisis exploratorio y la creación de visualizaciones que cuentan una historia.
-* **Mis intereses:** Ciencia de datos, optimización de procesos, automatización y encontrar *insights* donde otros ven solo números.
+## 📝 Sobre mí
 
-    </td>
-    <td valign="top" width="40%" align="center">
-      
-<img src="assets/libro_2.gif" width="100%" alt="Analista de Datos"/>
+* 👩🏻‍💻 Soy analista de datos. Mi enfoque se centra en transformar datos en información accionable para la toma de decisiones. 💡
 
-   </td>
-  </tr>
-</table> 
+* 🛠️ Trabajo principalmente con Python (Pandas, NumPy), bases de datos SQL Server y Power BI. 📈
+
+* 🚀 Creo firmemente en que con disciplina se pueden alcanzar resultados de excelencia. 🎯
+
+* 📺 Cuando no estoy haciendo proyectos para mi portafolio, estoy enfocada en el aprendizaje continuo, y en mi tiempo libre me dedico a repetir series y cuidar a Mauricio, mi gato. 🐈
+
+* 💬 Siempre estoy abierta a platicar sobre limpieza de datos, optimización de consultas en SQL, visualizaciones efectivas o incluso sobre series y Mauricio. 🐾
+
+
 
 ### 🌟Contactame:
 
