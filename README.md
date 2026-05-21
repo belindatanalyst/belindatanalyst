@@ -6,7 +6,7 @@
 # ¡Hola! 👋 Soy Belinda Velazquez Cantu 
 
 🌟Soy mercadóloga de estudio y analista de datos por elección. Me dedico a darle sentido a los datos para ayudar a tomar mejores decisiones.
-Me encanta el proceso completo: desde limpiando datos, hasta encontrar esos insights que nadie más vio y presentarlos de forma que todos entiendan qué está pasando.
+Me encanta el proceso completo: desde limpiando datos, hasta encontrar esos insights y presentarlos de forma que todos entiendan qué está pasando.
 
 Cuando no estoy analizando datos, estoy buscando nuevas herramientas o formas más rápidas de hacer las cosas. Te invito a ver mis proyectos y a que estemos en contacto.
 
