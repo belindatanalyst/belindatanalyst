@@ -10,19 +10,30 @@ Me encanta el proceso completo: desde limpiando datos, hasta encontrar esos insi
 
 Cuando no estoy analizando datos, estoy buscando nuevas herramientas o formas más rápidas de hacer las cosas. Te invito a ver mis proyectos y a que estemos en contacto.
 
-## 📝 Sobre Mi
+<table>
+  <tr>
+    <td valign="top" width="50%"> 
+      
+### 📝 Sobre mí
+
+* **¿Qué hago?** Analista de datos con formación en mercadotecnia. Mi trabajo es convertir datos complejos en decisiones claras y estrategias que realmente funcionen.
+* **¿En qué me especializo?** Me gusta dominar todo el proceso: desde la extracción y limpieza (ETL) hasta el análisis exploratorio y la creación de visualizaciones que cuentan una historia.
+* **Mis intereses:** Ciencia de datos, optimización de procesos, automatización y encontrar *insights* donde otros ven solo números.
+
+    </td>
+    <td valign="top" width="40%" align="center">
+      
+<img src="assets/compu_verde.png" width="100%" alt="Analista de Datos"/>
+
+   </td>
+  </tr>
+</table> 
 
 ### 🌟Contactame:
-</td>
-    <td valign="top" width="40%" align="center"> 
-<img src="https://via.placeholder.com/350x200/222222/FFFFFF?text=Analista+de+Datos" width="100%" alt="Analista de Datos"/>
-<br><br>
+
 <a href="https://www.linkedin.com/in/belinda-velazquez/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-    </td>
-  </tr>
-</table>
 
 
 ## 🛠️ Lenguajes y herramientas
