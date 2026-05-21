@@ -31,6 +31,10 @@ Te invito a ver mis proyectos y a que estemos en contacto.
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="mailto:belinda_velazquez@outlook.com">
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Belinda"/>
+</a>
+
 
 ## 🛠️ Lenguajes y herramientas
 
