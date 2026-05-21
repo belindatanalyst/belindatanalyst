@@ -23,7 +23,7 @@ Cuando no estoy analizando datos, estoy buscando nuevas herramientas o formas m√
     </td>
     <td valign="top" width="40%" align="center">
       
-<img src="assets/compu_verde.png" width="100%" alt="Analista de Datos"/>
+<img src="assets/libro_2.gif" width="100%" alt="Analista de Datos"/>
 
    </td>
   </tr>
